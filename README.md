@@ -18,7 +18,7 @@ simply run:
 ```
     "repositories": [
         {
-            "url": "https://github.com/dkgroot/PAMI.git",
+            "url": "https://github.com/dkgroot/CiscoXML.git",
             "type": "git"
         }
     ],
