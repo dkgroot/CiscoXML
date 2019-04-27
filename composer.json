@@ -1,0 +1,29 @@
+{
+    "name": "dkgroot/ciscoxml",
+    "type": "library",
+    "description": "Easily generate CiscoIPPhone XML output",
+    "keywords": ["cisco","ipphone","telephony","voip","xml","cxml"],
+    "homepage": "http://github.com/dkgroot/ciscoxml",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "Diederik de Groot",
+            "email": "ddegroot@talon.nl",
+            "homepage": "http://github.com/chan-sccp/",
+            "role": "Maintainer"
+        },
+        {
+            "name": "Tyler Winfield",
+            "homepage": "http://minded.ca/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CiscoXML\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
