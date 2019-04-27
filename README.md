@@ -2,6 +2,8 @@ ORIGINAL AUTHOR
 Tyler Winfield <contact>
 See: https://www.phpclasses.org/package/6718-PHP-Generate-XML-for-services-of-Cisco-IP-phones.html
 
+Has been adapted to composer.phar style to fit into projects easily.
+
 INSTALLATION:
 ------------------------
 Copy the 'lib' folder into any folder available to php includes.  The include_path folders can be configured in php.ini if not already setup.
